@@ -1,0 +1,10 @@
+div{
+    height:100px;
+    width:100px;
+    color:red;
+    background-image:url("cat_photo.jpg") ;
+    background-size: cover;
+    position :fixed;
+    right: 0px;
+    top:250px;
+}

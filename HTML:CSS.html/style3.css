@@ -1,0 +1,32 @@
+div{
+    display:inline-block ;
+}
+#box1{
+    height: 50px;
+    width: 50px;
+    border:2px solid black ;
+    margin:10px ;
+}
+#box2{
+    height: 50px;
+    width: 50px;
+    border:2px solid black ;
+    margin:10px ;
+   
+}
+#box3{
+    height: 50px;
+    width: 50px;
+    border:2px solid black ;
+    margin:10px ;
+}
+#box4{
+    height: 50px;
+    width: 50px;
+    border:2px solid black ;
+    margin:10px ;
+}
+body{
+    background-image:url("cat_photo.jpg");
+    background-size:cover ;
+}

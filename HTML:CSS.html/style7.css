@@ -1,0 +1,26 @@
+.navbar{
+    background-color:pink;
+    display:flex;
+    justify-content:space-evenly ;
+}
+a{
+    text-decoration:none ;
+    color:white;
+}
+li{
+    list-style-type:none;
+    background-color:red;
+}
+.Outer{
+    height: 400px;
+    width:400px;
+    background-color: darkorange;
+    display: flex;
+    justify-content:center ;
+    align-items:center ;
+}
+.Inner{
+    height: 200px;
+    width: 200px;
+    background-color: dodgerblue;
+}
